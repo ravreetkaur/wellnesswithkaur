@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Feed your Mind, Body and Soul"
+title:  "Nourish your body"
 author: ravreet
-categories: [ Nutrition ]
+categories: [ Nutrition ] [food] [diets] [fitness]
 featured: true
-image: "/assets/images/food.jpg"
+image: "/assets/images/Braemar_Hill.jpg"
 ---
 
-From all the content I consume every day on social media (podcasts, IG influencers, motivational pages), my own personal experiences and my specialization on positive psychology (For those of you, who might not know me, I am working towards a postgraduate in positive psychology). I want to share all the amazing tips and incredible things I have personally learnt first/second hand with you lovely readers. There are three pillars of self-care and self-love from my perspective: **Mind, Body and Soul.  Let us talk about body first.**
+From all the content I consume every day on social media (podcasts, IG influencers, motivational pages), my own personal experiences and my specialization on positive psychology (For those of you, who might not know me, I am working towards a postgraduate in positive psychology). I want to share all the amazing tips and incredible things I have personally learnt first/second hand with you lovely readers. There are three pillars of self-care and self-love from my perspective: **Mind, Body and Soul. Let us talk about body first.**
 
 I am not a guru or a specialist in these areas. However, I am someone who actively pursues living a more meaningful and purposeful life and think you all might benefit from my personal insights too. It begins not just externally but also internally. Let us talk about the external world first.
 
@@ -21,6 +21,7 @@ I recently took an online course *on introduction to nutrition and food by Stanf
 
 Personally, I have tried a low-carb diet throughout the time I was actively an ambassador at Nu Skin. I learned a lot of good tricks on clean eating during my time there. I tried to incorporate low amount of carbs, more protein (meat) and vegetables and fruit into my diet. I did incorporate some items of that diet into my daily routine such as avocados, yoghurt, variety of fruit, lean meat, and protein (chicken breast, salmon, shrimps, egg whites etc). It taught me a great deal about nutrition and diet. I will be forever grateful for that. 
 
+
 > **However, according to purely the knowledge I gained from this course:**
 > Low carb diets that promote significant protein and fats by cutting carbs can lead to serious health issues in the long run.
 
@@ -31,3 +32,5 @@ The tricky part is choosing the right carbs. You want to be able to incorporate 
 **Whole grains: brown rice, oats, Quinoa, whole-wheat bread, sweet potatoes**
 
 **Refined carbs: white bread/rice, sugary breakfast cereal, instant Oatmeal, white potatoes**
+
+Are you ready to make some changes? What carbs are you planning to replace?

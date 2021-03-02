@@ -1,7 +1,7 @@
 # Site
 name: "Wellness with Kaur"
 title: "Wellness with Kaur"
-description: "Food.Fitness.Wellness"
+description: "Food.Fitness.Wellbeing."
 logo: 'assets/images/ravreet_logo.png'
 favicon: 'assets/images/ravreet_logo.png'
 baseurl: /wellnesswithkaur
@@ -14,11 +14,11 @@ permalink: /:title/
 # Authors
 authors:
   ravreet:
-    name: Ravreet
-    display_name: Ravreet
+    name: Ravreet Kaur
+    display_name: Ravreet Kaur
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     avatar: 'assets/images/avatar.png'
-    email: ravreet.kaur97@gmail.com
+    email: wellnesswithkaur@gmail.com
     web: https://www.ravreetkaur.github.io/wellnesswithkaur
     twitter: https://twitter.com/wowthemesnet
     description: "I believe the fundamentals of good health are food, fitness and mental wellbeing; I want to share my wellness journey with you all in a unique and relatable way."
